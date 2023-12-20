@@ -84,4 +84,4 @@ async def on_message(message):
     await message.channel.send("New encouraging message added")
 
   
-client.run('OTQ3NzE0MjQxMjQ1MzgwNjM4.GKiCcM.H401WIZc_So7Mm1ckO0XzfPsPxG4GMf46y6JnY')
+client.run('...')//Token Key
