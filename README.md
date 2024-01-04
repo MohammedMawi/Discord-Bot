@@ -109,7 +109,3 @@ User: $joke
 
 Bot: In an objective, scientific sense, looking at an image of Chuck Norris erodes your soul.
 __________________________________________________________________________________
-
-
-
-And that concludes my bot's functionalities and how the bot works
