@@ -1,7 +1,7 @@
 # Discord-Bot
 
 __________________________________________________________________________________
-I programmed the discord bot to be interractive and respond to commands. Here's how it works.
+Custom made discord bot to be interractive and respond to commands. Here's how it works.
 __________________________________________________________________________________
 
 Greetings:
